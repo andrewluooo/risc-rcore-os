@@ -1,0 +1,1 @@
+/home/andrewlo/dev/rust_code/rcore/os/target/riscv64gc-unknown-none-elf/release/os: /home/andrewlo/dev/rust_code/rcore/os/src/console.rs /home/andrewlo/dev/rust_code/rcore/os/src/entry.asm /home/andrewlo/dev/rust_code/rcore/os/src/lang_items.rs /home/andrewlo/dev/rust_code/rcore/os/src/main.rs /home/andrewlo/dev/rust_code/rcore/os/src/sbi.rs
